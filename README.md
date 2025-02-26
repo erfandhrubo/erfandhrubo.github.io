@@ -27,7 +27,7 @@
 <head>
   
     
-<body>
+
 <pre>
 <span class="border">╔══════════════════════════════════════════════════════════════════════════════════════╗</span>
 <span class="border">║</span>                                                                             <span class="border">║</span>         
@@ -38,7 +38,4 @@
 <span class="border">║</span>                                                                                      <span class="border">║</span>
 <span class="border">╚══════════════════════════════════════════════════════════════════════════════════════╝</span>
         
-</pre>
-</body>
-</html>
 
