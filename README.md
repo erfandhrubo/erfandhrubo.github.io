@@ -21,25 +21,23 @@
   <li><a href="https://www.facebook.com/erfandhrubo">Connect with me on Facebook</a> to be part of a community that values depth over superficiality.</li>
 </ul>
 
-        <p>Hello! I'm excited to share my website with you. This is just a simple example, but it's a great starting point.</p>
-    </main>
-    <footer>
-        <p>&copy; 2025 My Simple Website</p>
-    </footer>
+    
 </body>
 <html>
 <head>
   
-    </style>
+    
 <body>
 <pre>
 <span class="border">╔══════════════════════════════════════════════════════════════════════════════════════╗</span>
-<span class="border">║</span>                                                                                      <span class="border">║</span>
+<span class="border">║</span>                                                                             <span class="border">║</span>         
+<span class="border">║</span>                                                                    
 <span class="border">║</span>    <span class="text"><span class="highlight">MONEY</span> helps us meet our needs and pursue <span class="highlight">dreams</span>, but its pursuit can      </span><span class="border">║</span>
-<span class="border">║</span>    <span class="text">lead to <span class="highlight">STRESS</span> and <span class="highlight">materialism</span>, often steering us away from what          </span><span class="border">║</span>
-<span class="border">║</span>                          <span class="text"><span class="highlight">TRULY MATTERS </span> in life.</span>                                  <span class="border">║</span>
+<span class="border">║</span>    <span class="text">lead to <span class="highlight">STRESS</span> and <span class="highlight">materialism</span>, often steering us away from what                                                                                                       
+<span class="border">║</span>                          <span class="text"><span class="highlight">TRULY MATTERS </span> in life.</span>                                  <span class="border">║</span>                                                                                              
 <span class="border">║</span>                                                                                      <span class="border">║</span>
 <span class="border">╚══════════════════════════════════════════════════════════════════════════════════════╝</span>
+        
 </pre>
 </body>
 </html>
