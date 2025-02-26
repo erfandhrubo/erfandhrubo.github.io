@@ -30,17 +30,3 @@
   
     
 
-<pre>
-<span class="border">╔══════════════════════════════════════════════════════════════════════════════════════╗</span>
-<span class="border">║</span>                                                                             <span class="border">║</span>         
-<span class="border">║</span>                                                                    
-<span class="border">║</span>    <span class="text"><span class="highlight">MONEY</span> helps us meet our needs and pursue <span class="highlight">dreams</span>, but its pursuit can      </span><span class="border">║</span>
-<span class="border">║</span>    <span class="text">lead to <span class="highlight">STRESS</span> and <span class="highlight">materialism</span>, often steering us away from what                                                                                                       
-<span class="border">║</span>                          <span class="text"><span class="highlight">TRULY MATTERS </span> in life.</span>                                  <span class="border">║</span>                                                                                              
-<span class="border">║</span>                                                                                      <span class="border">║</span>
-<span class="border">╚══════════════════════════════════════════════════════════════════════════════════════╝</span>
-        
-
-
-
-    
