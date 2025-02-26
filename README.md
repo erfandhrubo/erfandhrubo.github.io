@@ -20,27 +20,8 @@
 </body>
 <html>
 <head>
-    <style>
-        pre {
-            font-family: "Courier New", monospace;
-            font-size: ;
-            line-height: 4.16;
-        }
-        .border {
-			
-            color: #DAA520; /* Goldenrod */
-			font-weight: bold;
-        }
-        .text {
-            color: #2E8B57; /* SeaGreen */
-			font-weight: bold;
-        }
-        .highlight {
-            color: #DC143C; /* Crimson */
-            font-weight: bold;
-        }
+  
     </style>
-</head>
 <body>
 <pre>
 <span class="border">╔══════════════════════════════════════════════════════════════════════════════════════╗</span>
